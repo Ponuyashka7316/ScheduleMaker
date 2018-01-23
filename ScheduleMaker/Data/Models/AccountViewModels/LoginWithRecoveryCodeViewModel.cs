@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ScheduleMaker.Models.AccountViewModels
+namespace ScheduleMaker.Data.Models.AccountViewModels
 {
     public class LoginWithRecoveryCodeViewModel
     {

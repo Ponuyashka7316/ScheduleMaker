@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ScheduleMaker.Data;
-using ScheduleMaker.Models;
+using ScheduleMaker.Data.Models;
 using ScheduleMaker.Services;
 
 namespace ScheduleMaker

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 
-namespace ScheduleMaker.Models.ManageViewModels
+namespace ScheduleMaker.Data.Models.ManageViewModels
 {
     public class ExternalLoginsViewModel
     {

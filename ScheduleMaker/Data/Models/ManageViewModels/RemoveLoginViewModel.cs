@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ScheduleMaker.Models.ManageViewModels
+namespace ScheduleMaker.Data.Models.ManageViewModels
 {
     public class RemoveLoginViewModel
     {

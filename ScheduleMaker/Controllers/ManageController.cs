@@ -10,8 +10,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using ScheduleMaker.Models;
-using ScheduleMaker.Models.ManageViewModels;
+using ScheduleMaker.Data.Models;
+using ScheduleMaker.Data.Models.ManageViewModels;
 using ScheduleMaker.Services;
 
 namespace ScheduleMaker.Controllers

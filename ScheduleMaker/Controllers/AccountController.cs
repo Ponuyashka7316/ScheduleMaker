@@ -10,8 +10,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using ScheduleMaker.Models;
-using ScheduleMaker.Models.AccountViewModels;
+using ScheduleMaker.Data.Models;
+using ScheduleMaker.Data.Models.AccountViewModels;
 using ScheduleMaker.Services;
 
 namespace ScheduleMaker.Controllers
